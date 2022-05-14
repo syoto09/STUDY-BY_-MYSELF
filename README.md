@@ -1,5 +1,7 @@
 # Python 
  -  [Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
+ -  [SciPy](https://scipy.org/)
+      - calculate P-value
 
 # R
 

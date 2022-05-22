@@ -6,9 +6,14 @@
   - Array
 
 # R
+# JAVA
 
 # Statistical methods
-
+-  ANOVA test
+ - Linear regression
+ - Multiple linear regression
+- Quality Control
+- Cosine similarity
 # Textbook
   - [Introduction to Statistical Quality Control by Douglas Montgomery](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://www.ru.ac.bd/stat/wp-content/uploads/sites/25/2019/03/405_02_Montgomery_Introduction-to-statistical-quality-control-7th-edtition-2009.pdf)
 # Youtube 
